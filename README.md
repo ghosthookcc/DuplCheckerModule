@@ -29,5 +29,5 @@ foreach (string item in values)
 ```
 
 
-![GitHub Logo](/images/result.png)
+![GitHub Logo](result.png)
 Format: ![Alt Text](url)
