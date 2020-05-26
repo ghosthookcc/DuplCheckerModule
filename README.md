@@ -13,6 +13,7 @@ Console.WriteLine("Code: " + code);
 
 **List<string> values = returntuple.Item2;**
 
+```cs
 if(code == 1)
 {
 Console.Write("Duplicate values: ");
@@ -25,3 +26,4 @@ foreach (string item in values)
 } else if (code == 2) {
   Console.WriteLine("Error: " + values[0]);
 }
+```
