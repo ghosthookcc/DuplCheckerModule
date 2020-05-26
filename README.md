@@ -1,5 +1,6 @@
 # DuplCheckerModule
-A simple module that uses tuples to return a code followed by a value to tell you if you have duplicates in your integer list
+*A simple module that uses tuples to return a code followed by a value* 
+*to tell you if you have duplicates in your integer list*
 
 ## Example of how you can check for duplicates using pre-coded return codes 
 
@@ -26,3 +27,7 @@ foreach (string item in values)
   Console.WriteLine("Error: " + values[0]);
 }
 ```
+
+
+![GitHub Logo](/images/result.png)
+Format: ![Alt Text](url)
