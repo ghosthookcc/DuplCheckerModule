@@ -12,9 +12,11 @@ Tuple<int, List<string>> returntuple = dups.checkDupl(integerList);
 Console.WriteLine("Code: " + code);
 
 **List<string> values = returntuple.Item2;**
+
 if(code == 1)
 {
 Console.Write("Duplicate values: ");
+
 foreach (string item in values)
 {
   Console.Write("| " + item + " | ");
