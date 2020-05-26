@@ -1,7 +1,7 @@
 # DuplCheckerModule
 A simple module that uses tuples to return a code followed by a value to tell you if you have duplicates in your integer list
 
-## Example for showing how you can check for duplicates using return codes that are pre-coded 
+## Example of how you can check for duplicates using pre-coded return codes 
 
 ```cs
 CheckForDuplicates dups = new CheckForDuplicates();
