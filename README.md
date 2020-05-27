@@ -29,4 +29,4 @@ foreach (string item in values)
 ```
 
 
-Result:![GitHub Logo](result.png)
+Result: ![GitHub Logo](result.png)
